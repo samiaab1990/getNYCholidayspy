@@ -12,7 +12,7 @@ Retrieves a vector of New York City holidays dates as listed on the NYC Office o
 You can install the development version of getNYCholidays from [GitHub](https://github.com/) with:
 
 ``` python 
-pip install git+https://github.com/samiaab1990/getNYCholidayspy.git#egg=getNYCholidayspy
+pip install git+https://github.com/samiaab1990/getNYCholidayspy.git#egg=getNYCholidayspy 
 ```
 
 ## Example
