@@ -22,4 +22,4 @@ print(getnycholidays.returnday(holiday_keyword = "New Years"))
 print(getnycholidays.returnday(date_keyword = "2022-01-01"))
 
 # returns day of week from weekday
-print(getnycholidays.returndaye(weekday="Monday"))
+print(getnycholidays.returnday(weekday="Monday"))
