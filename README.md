@@ -1,11 +1,11 @@
 # getNYCholidayspy
-A Python version of the getNYCholidays package. Retrieves a vector of official NYC holiday dates from the NYC Office of Payroll Administration's List of Holidays PDF. Allows to retrieve dates by filtering on holiday name, weekday and date.
+A Python version of the getNYCholidays package. Retrieves an array of official NYC holiday dates from the NYC Office of Payroll Administration's List of Holidays PDF. Allows to retrieve dates by filtering on holiday name, weekday and date.
 
 <!-- badges: start -->
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/samiaab1990/getNYCholidayspy)
 <!-- badges: end -->
 
-Retrieves a vector of New York City holidays dates as listed on the NYC Office of Payroll Administration's List of Holidays PDF in R. 
+Retrieves an array of New York City holidays dates as listed on the NYC Office of Payroll Administration's List of Holidays PDF in R. 
 
 ## Installation
 
